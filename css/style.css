@@ -3,7 +3,8 @@ body {
 }
 
 .menu {
-    background-color: #170;
+    background-color: rgb(116, 189, 103);
+    font-size: 20px;
 }
 
 .name {
